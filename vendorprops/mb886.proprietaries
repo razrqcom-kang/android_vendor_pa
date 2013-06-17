@@ -1,35 +1,35 @@
 [
     {
-        "remote":       "rqdev",
-        "account":      "razrqcom-dev-team",
+        "remote":       "rqkang",
+        "account":      "razrqcom-kang",
         "repository":   "android_vendor_motorola_msm8960-common",
         "target_path":  "vendor/motorola/msm8960-common",
-        "revision":     "cm-10.1-dev"
-    },
-    {
-        "remote":       "rqdev",
-        "account":      "razrqcom-dev-team",
-        "repository":   "android_vendor_motorola_mb886",
-        "target_path":  "vendor/motorola/mmb886",
         "revision":     "cm-10.1"
     },
     {
-        "remote":       "rqdev",
-        "account":      "razrcom-dev-team",
+        "remote":       "rqkang",
+        "account":      "razrqcom-kang",
+        "repository":   "android_vendor_motorola_mb886",
+        "target_path":  "vendor/motorola/mb886",
+        "revision":     "cm-10.1-old"
+    },
+    {
+        "remote":       "rqkang",
+        "account":      "razrcom-kang",
         "repository":   "android_device_motorola_mb886",
         "target_path":  "device/motorola/mb886",
         "revision":     "cm-10.1"
     },
     {
-        "remote":       "rqdev",
-        "account":      "razrcom-dev-team",
+        "remote":       "rqkang",
+        "account":      "razrcom-kang",
         "repository":   "android_device_motorola_msm8960-common",
         "target_path":  "device/motorola/msm8960-common",
         "revision":     "cm-10.1"
     },
     {
-        "remote":       "rqdev",
-        "account":      "razrcom-dev-team",
+        "remote":       "rqkang",
+        "account":      "razrcom-kang",
         "repository":   "android_kernel_motorola_msm8960-common",
         "target_path":  "kernel/motorola/msm8960-common",
         "revision":     "cm-10.1"
